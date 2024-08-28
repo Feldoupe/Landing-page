@@ -2,11 +2,81 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Roboto;
   }
   
 
 .Header {
     background-color: #1F2B37;
+    height: 500px;
+}
+
+.Logo-Text {
+    display: flex;
+    font-size: 30px;
+    color: white;
+    padding: 1% 13% 100px 13%;
+    justify-content: space-between;
+}
+
+
+.Right-Part {
+    display: flex;
+    gap: 20px;
+}
+
+.Info-Image {
+    display: flex;
+    padding: 0% 13% 30px 13%;
+    gap: 30px;
+    color: white;
+}
+
+.Info-Image h1 {
+    font-size: 50px;
+}
+
+.Info-Image p{
+    font-size:25px;
+    margin-bottom: 10px;
+}
+
+.Info-Image button {
+    font-size: 25px;
+    border-radius: 10px;
+    background-color: rgb(15, 142, 165);
+    padding: 5px 15px;
+    color: white;
+    border-style: solid;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Left-Part-2 {
+
+
+}
+
+
+.Header-Photo {
+    max-width: 40%;
+    size: 33%;
 }
 
 .Filler-Text {
