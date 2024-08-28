@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+
+.Header {
+    background-color: #1F2B37;
+}
+
+.Filler-Text {
+    background-color: #4F76F6;
+}
+
+.Quote {
+    background-color: #F9F9F9;
+}
+
+.Footer {
+    background-color: #77F2A1;
+}
